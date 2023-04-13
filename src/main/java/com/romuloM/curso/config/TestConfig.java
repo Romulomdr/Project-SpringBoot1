@@ -22,7 +22,7 @@ import com.romuloM.curso.repositories.ProductRepository;
 import com.romuloM.curso.repositories.UserRepository;
 
 @Configuration
-@Profile("test")
+@Profile("dev1")
 public class TestConfig implements CommandLineRunner {
 
 	@Autowired
