@@ -6,8 +6,6 @@
 
 > Sistema de compras onde possui, ordem do produto, produto, pagamento, status do pedido,
 
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
-
 ---
 
 ## Tipos Readme
