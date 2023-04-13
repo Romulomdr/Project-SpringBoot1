@@ -2,30 +2,25 @@
 📄<br>Project Spring Boot
 </h1>
 
-## 📚 Ebook
+## 📚 Resumo
 
-> Sistema de compras onde possui, ordem do produto, produto, pagamento, status do pedido,
+> Sistema de compras onde possui, ordem do produto, produto, categoria, pagamento, status do pedido e usuário.
 
 ---
 
-## Tipos Readme
+## Diagrama de Classes
+
+![Diagrama de Classes](https://user-images.githubusercontent.com/106899605/231824065-f3e78a18-2ff2-4c53-8888-7338e0226739.png)
 
 
+## Relacionamento das Classes
 
+![Diagrama de Classes Relacionamentos](https://user-images.githubusercontent.com/106899605/231824197-eaf64c66-62f4-41b7-8300-d5747835fc67.png)
 
-## Recursos para o Readme
-
-[![Card](https://img.shields.io/badge/estatísticas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/iuricode/readme-template/blob/main/cards-stats/cards-stats.md)
-[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
 
 <div align="center">
+
   <br/>
-  <br/>
-  <br/>
-    <div>
-      <h1>Open Source</h1>
-      <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a>
-    </div>
-    <br/>
-    💖
+
+  <h1>Feito apenas para fins de estudos</h1>
 </div>
